@@ -37,7 +37,7 @@ To create commits it is recommended to add ssh public keys to github account. Th
 
 ### Create an Eclipse Development Environment
 
-[![Create Eclipse Development Environment for PDE](https://download.eclipse.org/oomph/www/setups/svg/PDE.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-pde/eclipse.pde.ui/master/releng/org.eclipse.pde.ui.setup/PDEConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
+[![Create Eclipse Development Environment for PDE](https://download.eclipse.org/oomph/www/setups/svg/PDE.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-pde/eclipse.pde.ui/master/releng/org.eclipse.pde.setup/PDEConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
 
 ### Recommended workflow
 
