@@ -17,8 +17,7 @@ more.
 * https://projects.eclipse.org/projects/eclipse.pde/developer
 
 The project issues and source code are maintained in GitHub
-* https://github.com/eclipse-pde/eclipse.pde.build
-* https://github.com/eclipse-pde/eclipse.pde.ui
+* https://github.com/eclipse-pde/eclipse.pde
 
 Be sure to search for existing issues before you create another one. Remember that
 contributions are always welcome!
