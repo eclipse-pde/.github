@@ -27,7 +27,7 @@ Ant-based tools and scripts to automate build processes.
 
 ### PDE Doc 
 
-Help documentation for PDE, which is [stored together with other project documentation](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/tree/master/eclipse.platform.common/bundles/org.eclipse.pde.doc.user) in the platform aggregator.
+Help documentation for PDE which is [stored on its own](https://github.com/eclipse-pde/eclipse.pde/tree/master/org.eclipse.pde.doc.user) in the PDE sources.
 
 ## Reporting issues
 
